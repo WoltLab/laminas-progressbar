@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-progressbar",
+    "name": "woltlab/laminas-progressbar",
     "description": "Create and update progress bars in different environments",
     "license": "BSD-3-Clause",
     "keywords": [
